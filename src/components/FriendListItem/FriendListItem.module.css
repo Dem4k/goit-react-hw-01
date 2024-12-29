@@ -1,0 +1,15 @@
+.status {
+  font-weight: 500;
+}
+
+.on {
+  color: green;
+}
+
+.off {
+  color: red;
+}
+
+.onOff {
+  color: brown;
+}

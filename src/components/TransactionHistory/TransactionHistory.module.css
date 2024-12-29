@@ -1,0 +1,21 @@
+.table {
+  margin-left: 20px;
+  text-align: center;
+  border: 1px solid black;
+  width: 30%;
+  margin: 0 auto;
+}
+
+.title {
+  background-color: grey;
+}
+
+.table tr:nth-child(even) {
+  background-color: #4b4747;
+}
+
+.table td,
+.table th {
+  border: 1px solid black;
+  padding: 8px;
+}
